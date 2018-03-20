@@ -5,37 +5,39 @@
                 "Y": 157, 
                 "X": 68
             }, 
-            "ImageIndexOn": 31
+            "ImageIndexOn": 30
         }, 
         "Alarm": {
             "Coordinates": {
                 "Y": 24, 
-                "X": 58
+                "X": 125
             }, 
-            "ImageIndexOn": 30
+            "ImageIndexOn": 100, 
+            "ImageIndexOff": 101
         }, 
         "DoNotDisturb": {
             "Coordinates": {
                 "Y": 24, 
                 "X": 109
             }, 
-            "ImageIndexOn": 32
+            "ImageIndexOn": 102, 
+            "ImageIndexOff": 103
         }, 
         "Bluetooth": {
             "Coordinates": {
-                "Y": 121, 
-                "X": 80
+                "Y": 23, 
+                "X": 57
             }, 
-            "ImageIndexOn": 28, 
-            "ImageIndexOff": 29
+            "ImageIndexOn": 300, 
+            "ImageIndexOff": 301
         }
     }, 
     "Battery": {
         "Icon": {
-            "Y": 124, 
+            "Y": 123, 
             "X": 30, 
-            "ImageIndex": 360, 
-            "ImagesCount": 6
+            "ImageIndex": 77, 
+            "ImagesCount": 7
         }
     }, 
     "Time": {
@@ -65,6 +67,16 @@
                 "X": 132, 
                 "ImageIndex": 1, 
                 "ImagesCount": 10
+            }
+        }
+    }, 
+    "Weather": {
+        "Icon": {
+            "CustomIcon": {
+                "Y": 110, 
+                "X": 72, 
+                "ImageIndex": 40, 
+                "ImagesCount": 26
             }
         }
     }, 

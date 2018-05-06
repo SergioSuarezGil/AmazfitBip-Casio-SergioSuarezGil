@@ -10,7 +10,7 @@
         "Alarm": {
             "Coordinates": {
                 "Y": 24, 
-                "X": 125
+                "X": 123
             }, 
             "ImageIndexOn": 100, 
             "ImageIndexOff": 101
@@ -26,7 +26,7 @@
         "Bluetooth": {
             "Coordinates": {
                 "Y": 23, 
-                "X": 57
+                "X": 55
             }, 
             "ImageIndexOn": 300, 
             "ImageIndexOff": 301

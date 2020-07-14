@@ -4,7 +4,7 @@
    Amazfip Bip .
  - Basado en el original de BYkoolgao.
 
-**Descarga**: [https://amazfitwatchfaces.com/bip/search/?author=SergioSGil](https://amazfitwatchfaces.com/bip/search/?author=sergiosgil)
+**Descarga**: [https://amazfitwatchfaces.com/search/bip/authorID/1719](https://amazfitwatchfaces.com/search/bip/authorID/1719)
 
 ----------
 **Cambios:**

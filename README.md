@@ -9,7 +9,7 @@
 ----------
 **Cambios:**
 
-**v1.52 06.05.2018)** 
+**v1.52 (06.05.2018)** 
 - Mejorada la info en el readme.md y link a la nueva version de Amazfit Watchfaces.
 
 **v1.51 (20.04.2018)** 
